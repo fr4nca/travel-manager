@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://main:travel1234@travel-manager-prdhq.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://main:travel1234@travel-manager-prdhq.mongodb.net/test?retryWrites=true&w=majority",
+  "jwt_secret": "secret"
 }
